@@ -24,6 +24,4 @@ The server takes the request and based on the info in the request line, headers,
 
 𝟲. 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗿𝗲𝗻𝗱𝗲𝗿𝘀 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁
 
-<div style="width:60px ; height:60px">
-![What happens when](/whathappensif.png?raw=true "What happens when")
-<div>
+![Whathappenswhen](./whathappensif.png?raw=true "What happens when")
